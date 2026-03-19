@@ -1,4 +1,4 @@
- package persona.viajero;
+ package persona1.viajero;
 import java.util.Scanner;
 public class Viajero {
     // Campo estático para contar instancias
